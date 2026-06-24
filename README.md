@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Oscar 👋
 
-<!--
-**oredgil/oredgil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a double degree student in **Mathematics and Telecommunication Engineering** at **Universitat Politècnica de València (UPV)**.
 
-Here are some ideas to get you started:
+I am interested in **quantitative finance**, **statistical modelling**, **signal processing**, **stochastic processes**, and **applied mathematics**. I enjoy building projects that combine mathematical theory, programming, and real-world data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+* 🎓 Studying Mathematics + Telecommunication Engineering at UPV
+* 📈 Interested in quantitative finance, statistical arbitrage and risk modelling
+* 📡 Background in signal processing, telecommunications and applied probability
+* 🧮 Strong interest in stochastic processes, time series and numerical methods
+* 💻 Building Python projects with a focus on clean code, reproducibility and documentation
+
+
+---
+
+## Tech Stack
+
+* **Languages:** Python, MATLAB, C++, SQL
+* **Python Libraries:** NumPy, Pandas, Matplotlib, SciPy, Statsmodels, Scikit-learn
+* **Math & Modelling:** Probability, statistics, linear algebra, optimization, time series
+* **Tools:** Git, GitHub, VS Code, Jupyter Notebook, LaTeX
+* **Documentation:** Markdown, LaTeX, technical reports
+
+---
+
+
+## Connect With Me
+
+* LinkedIn: [TU_LINKEDIN](https://www.linkedin.com/in/TU_LINKEDIN)
+
+
+
