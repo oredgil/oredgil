@@ -19,7 +19,7 @@ I am interested in **quantitative finance**, **statistical modelling**, **signal
 
 ## Tech Stack
 
-* **Languages:** Python, MATLA
+* **Languages:** Python, MATLAB
 * **Python Libraries:** NumPy, Pandas, Matplotlib, SciPy, Statsmodels, Scikit-learn
 * **Math & Modelling:** Probability, statistics, linear algebra, optimization, time series
 * **Tools:** Git, GitHub, VS Code, Jupyter Notebook, LaTeX
@@ -29,7 +29,7 @@ I am interested in **quantitative finance**, **statistical modelling**, **signal
 
 ## Connect With Me
 
-* LinkedIn: [TU_LINKEDIN](www.linkedin.com/in/oscar-redondo-gil-2b2337291)
+* LinkedIn: [oscar-redondo-gil](www.linkedin.com/in/oscar-redondo-gil-2b2337291)
 
 
 
